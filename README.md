@@ -117,7 +117,7 @@
 
   <div class="footer">
     <p>感谢访问我的网站！希望与您合作 ✨</p>
-    <p>更多项目请 <a href="mailto:your.email@example.com">联系我</a>。</p>
+    <p>更多项目请 <a href="mailto:547946362@qq.com">联系我</a>。</p>
   </div>
 </body>
 </html>
