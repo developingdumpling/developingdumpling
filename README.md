@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>饺子的灯光设计世界</title>
+  <title>饺子的人工智能探索世界</title>
   <style>
     body {
       font-family: 'Arial', sans-serif;
@@ -90,33 +90,33 @@
 <body>
   <header>
     <h1>你好，我是饺子 👋</h1>
-    <p>一名充满创意的灯光设计师 ✨</p>
+    <p>我在探索人工智能（零基础） 🤖</p>
   </header>
 
   <div class="intro">
     <h2>关于我</h2>
-    <p>我是饺子，一名热爱通过灯光传递情感的设计师。我结合艺术与科技，不断探索如何使用 AI 和智能技术提升灯光设计的创新性和精准度。</p>
-    <p>我的设计理念是通过光影变化引导情感，创造独特的氛围，突破传统灯光设计的界限。</p>
+    <p>我是饺子，最近在尝试通过人工智能来提升自己的工作效率和生活体验。虽然我从零开始，但我充满热情，探索每一个可能性。</p>
+    <p>我正在学习如何将 AI 技术应用到日常生活和工作中，期待突破自己的界限，不断学习与成长。</p>
   </div>
 
   <div class="projects">
     <h3>我的项目经验</h3>
     <div class="project-card">
-      <h4>舞台剧设计</h4>
-      <p>为舞台剧设计灯光，创造了生动的戏剧效果。</p>
+      <h4>AI 入门学习</h4>
+      <p>探索人工智能的基本概念与应用，通过项目实践加深理解。</p>
     </div>
     <div class="project-card">
-      <h4>演唱会灯光</h4>
-      <p>为明星演唱会设计舞台灯光，增强现场氛围。</p>
+      <h4>智能工具开发</h4>
+      <p>使用人工智能工具提高工作效率，并为自己的生活带来便捷。</p>
     </div>
     <div class="project-card">
-      <h4>AI互动设计</h4>
-      <p>结合 AI 技术，为特殊活动提供智能灯光互动效果。</p>
+      <h4>AI 创意实践</h4>
+      <p>通过与 AI 的互动，探索如何将其应用到创意领域。</p>
     </div>
   </div>
 
   <div class="footer">
-    <p>感谢访问我的网站！希望与您合作 ✨</p>
+    <p>感谢访问我的网站！期待与您一起探讨人工智能的更多可能性 ✨</p>
     <p>更多项目请 <a href="mailto:547946362@qq.com">联系我</a>。</p>
   </div>
 </body>
